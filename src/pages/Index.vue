@@ -6,10 +6,6 @@
 
     <h1>これはIbuki KawamitsuのPageです。</h1>
 
-    <p>
-      EBILAB Webエンジニア
-    </p>
-
   </Layout>
 </template>
 
